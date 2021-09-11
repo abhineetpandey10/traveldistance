@@ -1,0 +1,21 @@
+.button
+{
+    transition: 750ms;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+    padding:8px 10px 8px 10px;
+    width:400px;
+    border-radius: 4px;
+    border: 2px solid #bac0cd;
+    text-align: center;
+    color: #5f7587;
+}
+.button:hover
+{
+    transition: 750ms;
+    border-color: #5f7587;
+    background-color: #5f7587;
+    color:#fafafb;
+}
