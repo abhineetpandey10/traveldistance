@@ -12,6 +12,8 @@ A webapp to find the driving/travel distance between two cities/locations
 
 To get started with working on this Project, first fork this repo:
 
+<img width="369" alt="fork" src="https://user-images.githubusercontent.com/54185164/132949116-2c4ce0dc-3285-4a43-a716-6decaca3db2f.png">
+
 Then, clone the fork to your local machine using the command
 ### `git clone https://github.com/*YOUR_USERNAME_HERE*/traveldistance.git`**
 
@@ -26,3 +28,6 @@ Now, in the backend folder of the project, create a *.env* file having the follo
 
 ## Screenshots
 
+![ss1](https://user-images.githubusercontent.com/54185164/132949205-43c264f6-df9b-4d92-b2e9-0ef6ac737f4f.JPG)
+![ss2](https://user-images.githubusercontent.com/54185164/132949207-b56bb9c8-f0e0-4d8a-acc3-8c7cf33c2f67.JPG)
+![ss3](https://user-images.githubusercontent.com/54185164/132949209-62f42e69-118d-4582-b521-718baca7dc72.JPG)
